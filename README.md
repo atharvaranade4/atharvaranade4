@@ -13,6 +13,7 @@ Computational Designer at [NBBJ Design](https://github.com/nbbj-digital)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaranade4&layout=compact)](https://github.com/atharvaranade4/github-readme-stats)
 
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvaranade4)
 <!--
 **atharvaranade4/atharvaranade4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
