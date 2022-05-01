@@ -5,7 +5,7 @@ Computational Designer at [NBBJ Design](https://github.com/nbbj-digital)
 
 ----------------------------------------------
 
-* 🌍  I'm based in Seattle* 
+* 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [aranade@nbbj.com](mailto:sdabas@andrew.cmu.edu)
 * 🚀  Current interests: energy modeling using machine learning, 3D Web-Apps, RhinoCompute
 * 🧠  I'm learning Javascript (three.js)
