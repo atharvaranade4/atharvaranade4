@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Atharva Ranade
 =============================
 
-Computational Designer at [NBBJ Design] (https://github.com/nbbj-digital)
+Computational Designer at [NBBJ Design](https://github.com/nbbj-digital)
 
 <!--
 **atharvaranade4/atharvaranade4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
