@@ -5,7 +5,7 @@ Computational Designer at [NBBJ Design](https://github.com/nbbj-digital)
 
 ----------------------------------------------
 
-* 🌍  I'm based in Seattle, WA* 
+* 🌍  I'm based in Seattle, WA
 * 🚀  Current interests: energy modeling using machine learning, 3D Web-Apps, RhinoCompute
 * 🧠  I'm learning Javascript (three.js)
 * 🧠  I'm learning C#
