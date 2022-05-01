@@ -3,6 +3,14 @@
 
 Computational Designer at [NBBJ Design](https://github.com/nbbj-digital)
 
+----------------------------------------------
+
+* 🌍  I'm based in Seattle* 
+* ✉️  You can contact me at [aranade@nbbj.com](mailto:sdabas@andrew.cmu.edu)
+* 🚀  Current interests: energy modeling using machine learning, 3D Web-Apps, RhinoCompute
+* 🧠  I'm learning Javascript (three.js)
+* 🧠  I'm learning C#
+* 🤝  Collaborating on AEC Projects
 <!--
 **atharvaranade4/atharvaranade4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🖥️  See my portfolio at [My Portfolio](http://www.sachindabas.works/)
+- 
 -->
