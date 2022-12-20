@@ -12,10 +12,10 @@ Github: [NBBJ Design](https://github.com/nbbj-digital)
 * 🧠  I'm learning C#
 * 🤝  Collaborating on AEC Projects
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvaranade4)
+<!--![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvaranade4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaranade4&layout=compact)](https://github.com/atharvaranade4/github-readme-stats)
-
+-->
 
 
 
