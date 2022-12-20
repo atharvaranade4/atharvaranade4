@@ -1,4 +1,4 @@
-### Hi 👋 My name is Atharva Ranade
+## Hi 👋 My name is Atharva Ranade
 =============================
 
 Computational Designer at [NBBJ](http://www.nbbj.com/) <br />
