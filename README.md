@@ -7,11 +7,12 @@ Github: [NBBJ Design](https://github.com/nbbj-digital)
 ----------------------------------------------
 
 * 🌍  I'm based in Seattle, WA
+<!--
 * 🚀  Current interests: energy modeling using machine learning, 3D Web-Apps, RhinoCompute
 * 🧠  I'm learning Javascript (three.js)
 * 🧠  I'm learning C#
 * 🤝  Collaborating on AEC Projects
-
+-->
 <!--![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvaranade4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaranade4&layout=compact)](https://github.com/atharvaranade4/github-readme-stats)
