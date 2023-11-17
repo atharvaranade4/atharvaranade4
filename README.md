@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Atharva Ranade
 =============================
 
-Computational Designer at [NBBJ](http://www.nbbj.com/) <br />
+Application Developer at [NBBJ](http://www.nbbj.com/) <br />
 Github: [NBBJ Design](https://github.com/nbbj-digital)
 
 ----------------------------------------------
